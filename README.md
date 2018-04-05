@@ -1,6 +1,6 @@
 # ToDo List
 
-Réalisation d'une ToDo List avec le Framework Vue.js
+Réalisation d'une ToDo List avec le Framework Vue.js sur base d'un tutoriel et avec template MVC
 
 ## Fonctionnalités:
 - Ajout d'une tâche;
