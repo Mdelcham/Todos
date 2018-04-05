@@ -1,21 +1,11 @@
-# todos
+#ToDo List
 
-> A Vue.js project
+Réalisation d'une ToDo List avec le Framework Vue.js
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##Fonctionnalités:
+- Ajout d'une tâche;
+- Cochage d'une tâche terminée
+- Suppression d'une tâche;
+- Séléction de toutes les tâches;
+- Suppression de toutes les tâches;
+- Mise en place de filtres "A faire", "Faites", "Toutes";
